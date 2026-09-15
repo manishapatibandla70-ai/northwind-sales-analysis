@@ -1,3 +1,9 @@
+<img width="913" height="531" alt="nwss1" src="https://github.com/user-attachments/assets/0bffa3bf-3290-4ce5-a4d8-b75b91ea3589" />
+<img width="901" height="508" alt="nwss2" src="https://github.com/user-attachments/assets/16129567-ad8d-4d0f-b198-98beb3476ac3" />
+<img width="886" height="494" alt="nwss3" src="https://github.com/user-attachments/assets/b157cfbd-5af3-4a7e-b146-a364307024f5" />
+<img width="908" height="508" alt="nwss4" src="https://github.com/user-attachments/assets/8c769f73-4f70-46a0-95de-eb510769103d" />
+<img width="906" height="504" alt="nwss5" src="https://github.com/user-attachments/assets/cc74b3a8-63f1-4c1a-8b10-b21ac3ebe6fd" />
+<img width="910" height="507" alt="nwss6" src="https://github.com/user-attachments/assets/ed26644f-5baa-4168-8949-c20326c11bbd" />
 Northwind Traders: Sales & Business Insights Analysis
 Author: Moksha Manisha
 Date: March 12, 2026
